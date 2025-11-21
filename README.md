@@ -35,10 +35,10 @@ Strengths of Transmission Lines
       Ideal for low and medium power
 
  # Real-World Applications
-•	Telecommunications: Fiber backbone systems use coaxial and twisted-pair lines for intermediate stages.
-•	RF and microwave circuits: Microstrip lines on PCBs route high-frequency signals.
-•	Power systems: Long-distance electrical power is transmitted using overhead transmission lines.
-•	Cable TV and internet: Coaxial cables connect set-top boxes and broadband routers.
+-	Telecommunications: Fiber backbone systems use coaxial and twisted-pair lines for intermediate stages.
+-RF and microwave circuits: Microstrip lines on PCBs route high-frequency signals.
+-	Power systems: Long-distance electrical power is transmitted using overhead transmission lines.
+-	Cable TV and internet: Coaxial cables connect set-top boxes and broadband routers.
 
 
 # Advantages
